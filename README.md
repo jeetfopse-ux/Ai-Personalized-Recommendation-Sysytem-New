@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/e8df174b-09e7-427b-8c65-58e6e96be4d4
+
 # AI Personalized Recommendation - Personal Finance Advisor Bot
 
 A full-stack Flask application providing intelligent personal finance tracking, budget optimization, savings goal management, and AI-driven financial recommendations using **Google Gemini / OpenAI** (with resilient offline rule-based fallback algorithms).
@@ -99,3 +103,7 @@ python tests/test_ai_service.py
 - [routes/](file:///c:/Users/jeetf/OneDrive/Documents/First%20AI%20Internship%20PMS%20Robtics/AI%20Personalized%20Recommendation/routes): Blueprint routes (auth, dashboard, transactions, budgets, savings, ai_advisor, reports, profile).
 - [services/](file:///c:/Users/jeetf/OneDrive/Documents/First%20AI%20Internship%20PMS%20Robtics/AI%20Personalized%20Recommendation/services): Core financial logic ([finance_service.py](file:///c:/Users/jeetf/OneDrive/Documents/First%20AI%20Internship%20PMS%20Robtics/AI%20Personalized%20Recommendation/services/finance_service.py)) and AI recommendations ([ai_service.py](file:///c:/Users/jeetf/OneDrive/Documents/First%20AI%20Internship%20PMS%20Robtics/AI%20Personalized%20Recommendation/services/ai_service.py)).
 - [tests/](file:///c:/Users/jeetf/OneDrive/Documents/First%20AI%20Internship%20PMS%20Robtics/AI%20Personalized%20Recommendation/tests): Unit and integration tests.
+
+
+https://github.com/user-attachments/assets/c3297b17-18af-40d4-a2af-a07b8f4fd9f6
+
